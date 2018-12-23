@@ -2,6 +2,7 @@ Packing List
 ------------
 -- shoes
 -- toothpaste
+-- camera
 
 Picnic
 ------------
